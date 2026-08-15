@@ -1,0 +1,6 @@
+{
+  "name": "NutriChef AI - Refeições & Nutrição Inteligente",
+  "description": "Gerador inteligente de receitas e refeições baseado em calorias, ingredientes disponíveis na despensa e metas nutricionais, com tabela detalhada de macros e micronutrientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
